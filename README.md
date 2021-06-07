@@ -5,6 +5,7 @@
 
 
 ##### Core Java
+[x] - Naming Conventions
 
 
 ##### Servlet
